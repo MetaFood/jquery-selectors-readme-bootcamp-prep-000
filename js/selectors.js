@@ -1,3 +1,3 @@
 function paragraphSelector() {
-  var para = $('#p');
+  return $('p');
 }
