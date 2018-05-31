@@ -1,3 +1,3 @@
 function paragraphSelector() {
-  $(index.html#p)
+  $(index.html #p)
 }
